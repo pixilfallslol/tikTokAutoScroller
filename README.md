@@ -1,0 +1,2 @@
+# tikTokAutoScroller
+Autoscroller for tiktok.
