@@ -22,7 +22,7 @@ times = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60]
 x = 1859
 y = 610
 startPressed = False
-stopPressed = False # TODO: Add stop logic and fix issue with gui failing.
+stopPressed = False # TODO: Fix issue with gui failing.
 
 def clickAfterTime():
     if startPressed:
